@@ -3,11 +3,11 @@
 ### Udacity  Programming for Data Science with Python Nanodegree - Project
 
 ## Overview
-In this project, I will explore data related to Divvy bike share systems for three major cities in the United States—Chicago, New York City, and Washington. Using Python, I will write a code to import the data and answer interesting questions about it by computing descriptive statistics. I will also write a script that takes in raw input to create an interactive experience in the terminal to present these statistics.
+In this project, I will explore data related to Divvy bike share systems for three major cities in the United States; Chicago, New York City, and Washington. Using Python, I will write a code to import the data and answer interesting questions about it by computing descriptive statistics. I will also write a script that takes in raw input to create an interactive experience in the terminal to present these statistics.
 
 ## What Software Do I Need?
 
-To complete this project, i'll require the following softwares:
+To complete this project, i will require the following softwares:
 
 • Python
 
@@ -15,7 +15,7 @@ To complete this project, i'll require the following softwares:
 
 • A terminal application
 
-In this project, you will use data provided by Motivate, a bike share system provider for many major cities in the United States, to uncover bike share usage patterns. You will compare the system usage between three large cities: 
+In this project, you will use data provided by Divvy, a bike share system provider for many major cities in the United States, to uncover bike share usage patterns. You will compare the system usage between three large cities: 
 Chicago, 
 New York City, 
 and Washington, DC.
@@ -49,7 +49,7 @@ and Washington, DC.
 7. What is the overall travel time so far?
 8. What is the Average travel time so far?
 9. What are the various User Types and their Trip Durations.
-10. gender and age distribution of Users.
+10. Gender and age distribution of Users.
 
 
 ### The Files You will need the three city dataset files: 
